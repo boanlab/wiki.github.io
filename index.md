@@ -2,6 +2,8 @@
 layout: home
 ---
 
+Welcome to BoanLab!
+
 ## How to use this page?
 
 1. Search what you need.
