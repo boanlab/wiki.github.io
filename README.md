@@ -1,8 +1,8 @@
 # BoanLab
 
-Welcome to BoanLab!
+Welcome to BoanLab Wiki!
 
-## How to use help.boanlab.com?
+## How to use BoanLab Wiki?
 
 1. Search what you need.
 
