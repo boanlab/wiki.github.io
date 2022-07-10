@@ -1,4 +1,6 @@
-# BoanLab
+---
+layout: home
+---
 
 ## How to use this page?
 
