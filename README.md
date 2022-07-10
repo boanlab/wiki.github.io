@@ -2,7 +2,7 @@
 
 Welcome to BoanLab!
 
-## How to use this page?
+## How to use help.boanlab.com?
 
 1. Search what you need.
 
